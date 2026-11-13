@@ -1,3 +1,14 @@
 <Solution>
-  <Project Path="mlnetdemo/mlnetdemo.csproj" />
+  <Folder Name="/Classifications/">
+    <Project Path="ml_sentiment_binary_classificatoin_on_text/ml_sentiment_binary_classificatoin_on_text.csproj" Id="2e46890f-3d27-4b44-8608-36e4faabf511" />
+  </Folder>
+  <Folder Name="/Predictions/">
+    <Project Path="loadtextfiledemo/loadtextfiledemo.csproj" />
+    <Project Path="mllib/mllib.csproj" Id="c89b5c2e-4177-4dc0-a6ee-6aba69de0625" />
+    <Project Path="mlnetdemo/mlnetdemo.csproj" />
+    <Project Path="mlnet_sql/mlnet_sql.csproj" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="Dynamic-Class-from-csv.md" />
+  </Folder>
 </Solution>
